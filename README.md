@@ -40,8 +40,7 @@ The main objective of this project is to develop practical skills in navigating 
   - Explanation of the OpenCTI architecture, including `API`, `front-end`, `connectors`, and `storage`.
   - Usage of `STIX2` standards for structuring threat data.
 - **Reference:** OpenCTI Data Model screenshot.
-![https://tryhackme.com/r/room/opencti](https://github.com/user-attachments/assets/0e96b5fa-a553-4220-9c2f-379b68e5a455)
-
+![https://tryhackme.com/r/room/opencti](https://github.com/user-attachments/assets/0e96b5fa-a553-4220-9c2f-379b68e5a455 "https://tryhackme.com/r/room/opencti")
 
 ### 4. Investigative Scenario
 - **Objective:** Apply knowledge in a real-world SOC scenario.
