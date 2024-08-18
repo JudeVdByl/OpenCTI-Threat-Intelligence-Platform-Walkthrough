@@ -39,7 +39,7 @@ The main objective of this project is to develop practical skills in navigating 
 - **Key Points:** 
   - Explanation of the OpenCTI architecture, including `API`, `front-end`, `connectors`, and `storage`.
   - Usage of `STIX2` standards for structuring threat data.
-- **Reference:** OpenCTI Data Model screenshot.
+**Reference:** OpenCTI Data Model screenshot.
 ![https://tryhackme.com/r/room/opencti](https://github.com/user-attachments/assets/0e96b5fa-a553-4220-9c2f-379b68e5a455 "https://tryhackme.com/r/room/opencti")
 
 ### 4. Investigative Scenario
@@ -59,8 +59,8 @@ The main objective of this project is to develop practical skills in navigating 
 - **Key Points:** 
   - Using the `Activities` tab to track incidents.
   - Observing threat actor behaviors and their related indicators in the `Knowledge` tab.
-- **Reference:** Screenshots of the Activities and Knowledge tabs in OpenCTI.
-- ![image](https://github.com/user-attachments/assets/ce9b748b-0980-4224-8774-8423c562a93b)
+**Reference:** Screenshots of the Activities and Knowledge tabs in OpenCTI.
+![image](https://github.com/user-attachments/assets/ce9b748b-0980-4224-8774-8423c562a93b)
 
 
 
@@ -72,8 +72,8 @@ The main objective of this project is to develop practical skills in navigating 
   - `Analysis Tab`: Shows reports where the identified entry has been seen.
   - `Indicators Tab`: Provides information on IOCs identified for all the threats and entities.
   - `History Tab`: Tracks changes made to the element, attributes, and relations.
-- **Reference:** Navigation through the Cobalt Strike entity in OpenCTI.
-- ![image](https://github.com/user-attachments/assets/cc24c52a-cfed-48c4-bbb4-6a70c975b83b)
+**Reference:** Navigation through the Cobalt Strike entity in OpenCTI.
+![image](https://github.com/user-attachments/assets/cc24c52a-cfed-48c4-bbb4-6a70c975b83b)
 
 
 ## Conclusion
