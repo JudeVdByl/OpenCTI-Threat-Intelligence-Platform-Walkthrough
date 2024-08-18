@@ -19,7 +19,6 @@ The main objective of this project is to develop practical skills in navigating 
 
 - **OpenCTI:** The primary tool used for threat intelligence analysis and investigation.
 - **MITRE ATT&CK Framework:** Used to map and understand attack techniques and threat actor tactics.
-- **Redis and Elasticsearch:** As part of the OpenCTI architecture for event streaming and data storage (referenced in the data model).
 
 ## Walkthrough Steps
 
@@ -28,14 +27,12 @@ The main objective of this project is to develop practical skills in navigating 
 - **Key Points:** 
   - Overview of OpenCTI functionalities and navigation.
   - Understanding the prerequisites for using OpenCTI effectively.
-- **Reference:** Initial screenshots of the TryHackMe room.
 
 ### 2. Introduction to OpenCTI
 - **Objective:** Explore the core functionalities of OpenCTI.
 - **Key Points:** 
   - OpenCTI's integration with the MITRE ATT&CK Framework.
   - The platform's role in managing CTI, including storage and visualization of threat data.
-- **Reference:** TryHackMe’s introduction to OpenCTI.
 
 ### 3. OpenCTI Data Model
 - **Objective:** Understand the data model used in OpenCTI.
@@ -43,6 +40,8 @@ The main objective of this project is to develop practical skills in navigating 
   - Explanation of the OpenCTI architecture, including `API`, `front-end`, `connectors`, and `storage`.
   - Usage of `STIX2` standards for structuring threat data.
 - **Reference:** OpenCTI Data Model screenshot.
+![https://tryhackme.com/r/room/opencti](https://github.com/user-attachments/assets/0e96b5fa-a553-4220-9c2f-379b68e5a455)
+
 
 ### 4. Investigative Scenario
 - **Objective:** Apply knowledge in a real-world SOC scenario.
