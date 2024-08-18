@@ -53,7 +53,6 @@ The main objective of this project is to develop practical skills in navigating 
   - **Attack Technique used by CaddyWiper for execution:** `Native API`
   - **APT37 associated country:** `North Korea`
   - **Tools used by APT37 in 2016:** `BloodHound`, `Empire`, `ShimRatReporter`
-- **Reference:** Investigative scenario on TryHackMe.
 
 ### 5. Activities & Knowledge Management
 - **Objective:** Learn to manage and categorize threat data.
@@ -61,6 +60,9 @@ The main objective of this project is to develop practical skills in navigating 
   - Using the `Activities` tab to track incidents.
   - Observing threat actor behaviors and their related indicators in the `Knowledge` tab.
 - **Reference:** Screenshots of the Activities and Knowledge tabs in OpenCTI.
+- ![image](https://github.com/user-attachments/assets/ce9b748b-0980-4224-8774-8423c562a93b)
+
+
 
 ### 6. General Tabs Navigation
 - **Objective:** Efficiently navigate through different OpenCTI tabs.
@@ -71,6 +73,8 @@ The main objective of this project is to develop practical skills in navigating 
   - `Indicators Tab`: Provides information on IOCs identified for all the threats and entities.
   - `History Tab`: Tracks changes made to the element, attributes, and relations.
 - **Reference:** Navigation through the Cobalt Strike entity in OpenCTI.
+- ![image](https://github.com/user-attachments/assets/cc24c52a-cfed-48c4-bbb4-6a70c975b83b)
+
 
 ## Conclusion
 
